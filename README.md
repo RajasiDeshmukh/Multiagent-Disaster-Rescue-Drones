@@ -1,3 +1,11 @@
+> **Team project** developed at IvLabs, VNIT Nagpur for the **National Innovation Drone Challenge (NIDAR) 2025**.
+
+> Original repository: [HarshalKolhe02/Multiagent_Disaster_Rescue_Drones_NIDAR](https://github.com/HarshalKolhe02/Multiagent_Disaster_Rescue_Drones_NIDAR).
+
+> **My contributions:** Inter-drone communication, autonomous system deployment, YOLO-based aerial human detection, lawnmower search planning, and the two-stage payload-drop mechanism.
+> Paper: *ICAMMS 2026*.
+
+
 # Multiagent_Disaster_Rescue_Drones_NIDAR
 > ⚠️ Note: This repository contains selected modules of a larger UAV perception and geotagging pipeline developed for the NIDAR competition. 
 Some components are withheld due to an ongoing research publication.
